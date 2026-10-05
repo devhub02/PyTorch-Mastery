@@ -154,11 +154,11 @@ Click a notebook name to view it on GitHub, or the **Colab badge** to open it di
 
 | Project | What You'll Build | Open |
 |---------|-------------------|------|
-| `image_classification` | CNN pipeline: raw images → served model | 🔜 Coming soon |
-| `text_classification` | Transformer encoder + HF `datasets` | 🔜 Coming soon |
-| `llm_finetuning` | QLoRA on an instruction dataset, end to end | 🔜 Coming soon |
-| `recommendation_system` | Embeddings + two-tower model | 🔜 Coming soon |
-| `multimodal` | Image + text | 🔜 Coming soon |
+| [`image_classification`](06_end_to_end_projects/image_classification/) | CNN pipeline: raw images → served model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/image_classification/image_classification.ipynb) |
+| [`text_classification`](06_end_to_end_projects/text_classification/) | Transformer encoder + HF `datasets` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/text_classification/text_classification.ipynb) |
+| [`llm_finetuning`](06_end_to_end_projects/llm_finetuning/) | QLoRA on an instruction dataset, end to end | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/llm_finetuning/llm_finetuning.ipynb) |
+| [`recommendation_system`](06_end_to_end_projects/recommendation_system/) | Embeddings + two-tower model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/recommendation_system/recommendation_system.ipynb) |
+| [`multimodal`](06_end_to_end_projects/multimodal/) | Image + text | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/multimodal/multimodal.ipynb) |
 
 ---
 
@@ -218,7 +218,12 @@ This repo is being built incrementally, one notebook at a time.
 - [x] `01_fundamentals/datasets_dataloaders.ipynb`
 - [x] `01_fundamentals/training_loop_from_scratch.ipynb`
 - [x] `01_fundamentals/optimizers_losses.ipynb`
-- [ ] Everything else (structure exists, content coming — built and confirmed one notebook at a time)
+- [x] `00_setup` — environment setup
+- [x] `02_core_deep_learning` — MLP, CNN, RNN/LSTM/GRU, regularization, initialization, debugging, transfer learning
+- [x] `03_advanced_architectures` — Transformers, ViT, ResNet/EfficientNet, GANs, VAEs, GNNs, diffusion
+- [x] `04_llm_finetuning` — HF ecosystem, full fine-tuning, LoRA/QLoRA, instruction tuning, RLHF/DPO, quantization, inference, evaluation
+- [x] `05_production_engineering` — AMP, DDP, tracking, serving, ONNX, testing, profiling, reproducibility
+- [x] `06_end_to_end_projects` — five complete projects
 
 ---
 
