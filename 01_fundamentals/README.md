@@ -11,9 +11,9 @@ explanation, runnable code, common bugs, and exercises.
 | [`autograd.ipynb`](autograd.ipynb) | `requires_grad`, computation graph, `backward()`, `grad_fn`, detaching, `no_grad` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/01_fundamentals/autograd.ipynb) |
 | [`nn_module.ipynb`](nn_module.ipynb) | `nn.Module`, parameters vs buffers, `state_dict`, custom layers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/01_fundamentals/nn_module.ipynb) |
 | [`datasets_dataloaders.ipynb`](datasets_dataloaders.ipynb) | `Dataset`, `DataLoader`, collate functions, samplers, multi-worker loading | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/01_fundamentals/datasets_dataloaders.ipynb) |
+| [`training_loop_from_scratch.ipynb`](training_loop_from_scratch.ipynb) | Full training loop by hand: batches, loss, `backward()`, optimizer step, eval | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/01_fundamentals/training_loop_from_scratch.ipynb) |
 | [`optimizers_losses.ipynb`](optimizers_losses.ipynb) | SGD/Adam/AdamW internals, loss functions, LR schedulers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/01_fundamentals/optimizers_losses.ipynb) |
 
-> 📝 **Coming soon:** `training_loop.ipynb` — writing the loop by hand before using any trainer abstraction.
 
 ---
 

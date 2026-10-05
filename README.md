@@ -104,61 +104,61 @@ Click a notebook name to view it on GitHub, or the **Colab badge** to open it di
 
 | Notebook | What You'll Learn | Open |
 |----------|-------------------|------|
-| `mlp.ipynb` | Fully connected nets, activation functions, forward pass | 🔜 Coming soon |
-| `cnn.ipynb` | Convolutions, pooling, receptive fields, image classifiers | 🔜 Coming soon |
-| `rnn_lstm_gru.ipynb` | Sequence modeling, vanishing gradients, packed sequences | 🔜 Coming soon |
-| `regularization.ipynb` | Dropout, weight decay, label smoothing, early stopping | 🔜 Coming soon |
-| `initialization.ipynb` | Xavier/Kaiming, why bad init kills training | 🔜 Coming soon |
-| `debugging.ipynb` | Loss curves, gradient norms, hooks, TensorBoard | 🔜 Coming soon |
-| `transfer_learning.ipynb` | Freezing/unfreezing, feature extraction vs fine-tuning | 🔜 Coming soon |
+| [`mlp.ipynb`](02_core_deep_learning/01_mlp/mlp.ipynb) | Fully connected nets, activation functions, forward pass | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/02_core_deep_learning/01_mlp/mlp.ipynb) |
+| [`cnn.ipynb`](02_core_deep_learning/02_cnn/cnn.ipynb) | Convolutions, pooling, receptive fields, image classifiers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/02_core_deep_learning/02_cnn/cnn.ipynb) |
+| [`rnn_lstm_gru.ipynb`](02_core_deep_learning/03_rnn_lstm_gru/rnn_lstm_gru.ipynb) | Sequence modeling, vanishing gradients, packed sequences | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/02_core_deep_learning/03_rnn_lstm_gru/rnn_lstm_gru.ipynb) |
+| [`regularization.ipynb`](02_core_deep_learning/04_regularization/regularization.ipynb) | Dropout, weight decay, label smoothing, early stopping | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/02_core_deep_learning/04_regularization/regularization.ipynb) |
+| [`initialization.ipynb`](02_core_deep_learning/05_initialization/initialization.ipynb) | Xavier/Kaiming, why bad init kills training | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/02_core_deep_learning/05_initialization/initialization.ipynb) |
+| [`debugging.ipynb`](02_core_deep_learning/06_debugging_and_visualization/debugging.ipynb) | Loss curves, gradient norms, hooks, TensorBoard | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/02_core_deep_learning/06_debugging_and_visualization/debugging.ipynb) |
+| [`transfer_learning.ipynb`](02_core_deep_learning/07_transfer_learning/transfer_learning.ipynb) | Freezing/unfreezing, feature extraction vs fine-tuning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/02_core_deep_learning/07_transfer_learning/transfer_learning.ipynb) |
 
 ### 🏗️ 03 — Advanced Architectures
 
 | Notebook | What You'll Learn | Open |
 |----------|-------------------|------|
-| `attention_transformers.ipynb` | Self-attention, multi-head attention, encoder/decoder from scratch | 🔜 Coming soon |
-| `vision_transformers.ipynb` | Patch embeddings, ViT | 🔜 Coming soon |
-| `resnet_efficientnet.ipynb` | Skip connections, modern CNN backbones | 🔜 Coming soon |
-| `gans.ipynb` | Generator/discriminator training dynamics | 🔜 Coming soon |
-| `vaes.ipynb` | Latent variable models, reparameterization trick | 🔜 Coming soon |
-| `gnn.ipynb` | Message passing, GCN/GAT basics | 🔜 Coming soon |
-| `diffusion_models.ipynb` | Forward/reverse diffusion, denoising objective | 🔜 Coming soon |
+| [`attention_transformers.ipynb`](03_advanced_architectures/attention_transformers.ipynb) | Self-attention, multi-head attention, encoder/decoder from scratch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/03_advanced_architectures/attention_transformers.ipynb) |
+| [`vision_transformers.ipynb`](03_advanced_architectures/vision_transformers.ipynb) | Patch embeddings, ViT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/03_advanced_architectures/vision_transformers.ipynb) |
+| [`resnet_efficientnet.ipynb`](03_advanced_architectures/resnet_efficientnet.ipynb) | Skip connections, modern CNN backbones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/03_advanced_architectures/resnet_efficientnet.ipynb) |
+| [`gans.ipynb`](03_advanced_architectures/gans.ipynb) | Generator/discriminator training dynamics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/03_advanced_architectures/gans.ipynb) |
+| [`vaes.ipynb`](03_advanced_architectures/vaes.ipynb) | Latent variable models, reparameterization trick | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/03_advanced_architectures/vaes.ipynb) |
+| [`gnn.ipynb`](03_advanced_architectures/gnn.ipynb) | Message passing, GCN/GAT basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/03_advanced_architectures/gnn.ipynb) |
+| [`diffusion_models.ipynb`](03_advanced_architectures/diffusion_models.ipynb) | Forward/reverse diffusion, denoising objective | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/03_advanced_architectures/diffusion_models.ipynb) |
 
 ### 🦙 04 — LLM Fine-tuning
 
 | Notebook | What You'll Learn | Open |
 |----------|-------------------|------|
-| `huggingface_ecosystem.ipynb` | `transformers`, `datasets`, `tokenizers`, `accelerate` | 🔜 Coming soon |
-| `full_finetuning.ipynb` | Full-parameter fine-tuning, memory math | 🔜 Coming soon |
-| `lora_qlora.ipynb` | LoRA, QLoRA, PEFT internals, adapter merging | 🔜 Coming soon |
-| `prompt_instruction_tuning.ipynb` | Instruction datasets, chat templates | 🔜 Coming soon |
-| `rlhf_dpo.ipynb` | Reward modeling, PPO vs DPO | 🔜 Coming soon |
-| `quantization.ipynb` | int8/int4, GPTQ/AWQ/bitsandbytes basics | 🔜 Coming soon |
-| `inference_optimization.ipynb` | KV cache, batching, speculative decoding basics | 🔜 Coming soon |
-| `evaluation.ipynb` | Perplexity, task benchmarks, eval harnesses | 🔜 Coming soon |
+| [`huggingface_ecosystem.ipynb`](04_llm_finetuning/huggingface_ecosystem.ipynb) | `transformers`, `datasets`, `tokenizers`, `accelerate` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/04_llm_finetuning/huggingface_ecosystem.ipynb) |
+| [`full_finetuning.ipynb`](04_llm_finetuning/full_finetuning.ipynb) | Full-parameter fine-tuning, memory math | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/04_llm_finetuning/full_finetuning.ipynb) |
+| [`lora_qlora.ipynb`](04_llm_finetuning/lora_qlora.ipynb) | LoRA, QLoRA, PEFT internals, adapter merging | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/04_llm_finetuning/lora_qlora.ipynb) |
+| [`prompt_instruction_tuning.ipynb`](04_llm_finetuning/prompt_instruction_tuning.ipynb) | Instruction datasets, chat templates | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/04_llm_finetuning/prompt_instruction_tuning.ipynb) |
+| [`rlhf_dpo.ipynb`](04_llm_finetuning/rlhf_dpo.ipynb) | Reward modeling, PPO vs DPO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/04_llm_finetuning/rlhf_dpo.ipynb) |
+| [`quantization.ipynb`](04_llm_finetuning/quantization.ipynb) | int8/int4, GPTQ/AWQ/bitsandbytes basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/04_llm_finetuning/quantization.ipynb) |
+| [`inference_optimization.ipynb`](04_llm_finetuning/inference_optimization.ipynb) | KV cache, batching, speculative decoding basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/04_llm_finetuning/inference_optimization.ipynb) |
+| [`evaluation.ipynb`](04_llm_finetuning/evaluation.ipynb) | Perplexity, task benchmarks, eval harnesses | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/04_llm_finetuning/evaluation.ipynb) |
 
 ### ⚙️ 05 — Production Engineering
 
 | Notebook | What You'll Learn | Open |
 |----------|-------------------|------|
-| `mixed_precision.ipynb` | AMP, fp16/bf16, loss scaling | 🔜 Coming soon |
-| `distributed_training.ipynb` | DataParallel vs DDP vs FSDP, multi-GPU basics | 🔜 Coming soon |
-| `experiment_tracking.ipynb` | Weights & Biases / MLflow, checkpointing strategy | 🔜 Coming soon |
-| `model_serving.ipynb` | TorchServe, FastAPI serving, batching requests | 🔜 Coming soon |
-| `onnx_torchscript.ipynb` | Exporting models for production runtimes | 🔜 Coming soon |
-| `testing_ml_code.ipynb` | Unit tests for data pipelines, models, training steps | 🔜 Coming soon |
-| `profiling_optimization.ipynb` | `torch.profiler`, memory leaks, `torch.compile` | 🔜 Coming soon |
-| `reproducibility_config.ipynb` | Seeding, deterministic runs, Hydra/YAML configs | 🔜 Coming soon |
+| [`mixed_precision.ipynb`](05_production_engineering/mixed_precision.ipynb) | AMP, fp16/bf16, loss scaling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/05_production_engineering/mixed_precision.ipynb) |
+| [`distributed_training.ipynb`](05_production_engineering/distributed_training.ipynb) | DataParallel vs DDP vs FSDP, multi-GPU basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/05_production_engineering/distributed_training.ipynb) |
+| [`experiment_tracking.ipynb`](05_production_engineering/experiment_tracking.ipynb) | Weights & Biases / MLflow, checkpointing strategy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/05_production_engineering/experiment_tracking.ipynb) |
+| [`model_serving.ipynb`](05_production_engineering/model_serving.ipynb) | TorchServe, FastAPI serving, batching requests | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/05_production_engineering/model_serving.ipynb) |
+| [`onnx_torchscript.ipynb`](05_production_engineering/onnx_torchscript.ipynb) | Exporting models for production runtimes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/05_production_engineering/onnx_torchscript.ipynb) |
+| [`testing_ml_code.ipynb`](05_production_engineering/testing_ml_code.ipynb) | Unit tests for data pipelines, models, training steps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/05_production_engineering/testing_ml_code.ipynb) |
+| [`profiling_optimization.ipynb`](05_production_engineering/profiling_optimization.ipynb) | `torch.profiler`, memory leaks, `torch.compile` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/05_production_engineering/profiling_optimization.ipynb) |
+| [`reproducibility_config.ipynb`](05_production_engineering/reproducibility_config.ipynb) | Seeding, deterministic runs, Hydra/YAML configs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/05_production_engineering/reproducibility_config.ipynb) |
 
 ### 🚀 06 — End-to-End Projects
 
 | Project | What You'll Build | Open |
 |---------|-------------------|------|
-| `image_classification` | CNN pipeline: raw images → served model | 🔜 Coming soon |
-| `text_classification` | Transformer encoder + HF `datasets` | 🔜 Coming soon |
-| `llm_finetuning` | QLoRA on an instruction dataset, end to end | 🔜 Coming soon |
-| `recommendation_system` | Embeddings + two-tower model | 🔜 Coming soon |
-| `multimodal` | Image + text | 🔜 Coming soon |
+| [`image_classification`](06_end_to_end_projects/image_classification/) | CNN pipeline: raw images → served model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/image_classification/image_classification.ipynb) |
+| [`text_classification`](06_end_to_end_projects/text_classification/) | Transformer encoder + HF `datasets` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/text_classification/text_classification.ipynb) |
+| [`llm_finetuning`](06_end_to_end_projects/llm_finetuning/) | QLoRA on an instruction dataset, end to end | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/llm_finetuning/llm_finetuning.ipynb) |
+| [`recommendation_system`](06_end_to_end_projects/recommendation_system/) | Embeddings + two-tower model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/recommendation_system/recommendation_system.ipynb) |
+| [`multimodal`](06_end_to_end_projects/multimodal/) | Image + text | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/PyTorch-Mastery/blob/main/06_end_to_end_projects/multimodal/multimodal.ipynb) |
 
 ---
 
@@ -218,7 +218,12 @@ This repo is being built incrementally, one notebook at a time.
 - [x] `01_fundamentals/datasets_dataloaders.ipynb`
 - [x] `01_fundamentals/training_loop_from_scratch.ipynb`
 - [x] `01_fundamentals/optimizers_losses.ipynb`
-- [ ] Everything else (structure exists, content coming — built and confirmed one notebook at a time)
+- [x] `00_setup` — environment setup
+- [x] `02_core_deep_learning` — MLP, CNN, RNN/LSTM/GRU, regularization, initialization, debugging, transfer learning
+- [x] `03_advanced_architectures` — Transformers, ViT, ResNet/EfficientNet, GANs, VAEs, GNNs, diffusion
+- [x] `04_llm_finetuning` — HF ecosystem, full fine-tuning, LoRA/QLoRA, instruction tuning, RLHF/DPO, quantization, inference, evaluation
+- [x] `05_production_engineering` — AMP, DDP, tracking, serving, ONNX, testing, profiling, reproducibility
+- [x] `06_end_to_end_projects` — five complete projects
 
 ---
 
